@@ -69,7 +69,7 @@ html {
     margin-top: 70px; /* Compensa o menu fixo */
     background-color: #240046;
     background-image: linear-gradient(#240046a8),
-    url('./accets/background.jpg');
+    url('./assets/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
